@@ -63,7 +63,6 @@ The project is about portfolio website designed to showcase personal work skills
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Parallax transition
 - Transactional
 - Responsive
 
@@ -72,6 +71,37 @@ The project is about portfolio website designed to showcase personal work skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+### File Structure Explanation:
+
+- index.html: Main landing page of the website and also serves as the skeleton of the website.
+- style.css: Directory containing CSS files for styling or serves as the skin of the website.
+- img: For storing project images and icons.
+- JavaScript: allows you to implement complex features on web pages and serves as the brain of the website.
+
+### Deployment Instructions:
+
+- Go to my repository: https://github.com/maryanneramil19/WD-Finals.git
+  Go to actions and select the deploy link.
+- Or click this instead: https://maryanneramil19.github.io/WD-Finals/
+
+### Project repositories:
+This can also be viewed in the portfolio website under projects page
+
+Seatwork 2: [https://maryanneramil19.github.io/Seatwork2-resume-main/]
+
+Seatwork 3: [https://maryanneramil19.github.io/WD-SW3/]
+
+Hands On 1: [https://maryanneramil19.github.io/WD--Midterm/]
+
+Hands On 2: [https://maryanneramil19.github.io/WD--Hands-On-2/]
+
+Seatwork 4: [https://maryanneramil19.github.io/WD-SW4/]
+
+
+### WakaTime Integration:
+
+View my coding stats on WakaTime: [\[My Profile Link\]](https://wakatime.com/@maryanneramil19)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
