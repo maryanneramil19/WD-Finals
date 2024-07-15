@@ -114,6 +114,6 @@ WD-ProjectName
 |-|-|-|
 | Daily Dev Card | Creation Of dev card profile | https://app.daily.dev/devcard |
 | W3school | Used as referenced | www.w3schools.com |
-| Youtube | guiding for source code | youtube.com |
+| Youtube | guiding for source code | www.youtube.com |
 | Font awesome icons | where i got my icons | https://fontawesome.com/icons |
 
