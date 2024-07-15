@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://app.daily.dev/maryanneramil" alt="Daily dev card" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This serves as my personal Portfolio and works done in Web design course.
 </div>
 
 <br />
@@ -57,20 +57,16 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+The project is about portfolio website designed to showcase personal work skills or achievements. The purpose of this project is to create and highlight the accomplishments during the course here in Web design as well as to practice using HTML and CSS and Javascript skills.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Parallax transition
 - Transactional
+- Responsive
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +113,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Daily Dev Card | Creation Of dev card profile | https://app.daily.dev/devcard |
+| W3school | Used as referenced | www.w3schools.com |
+| Youtube | guiding for source code | youtube.com |
+| Font awesome icons | where i got my icons | https://fontawesome.com/icons |
+
