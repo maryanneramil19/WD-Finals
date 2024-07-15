@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-a href="https://app.daily.dev/maryanneramil"><img src="https://api.daily.dev/devcards/v2/sd6sPcxxQfMl3mtXjnEjM.png?type=wide&r=fbh" width="652" alt="Mary Anne Ramil's Dev Card"/></a>
+<img src="https://api.daily.dev/devcards/v2/sd6sPcxxQfMl3mtXjnEjM.png?type=wide&r=fbh" width="652" alt="Mary Anne Ramil's Dev Card"/></a>
 
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project</h3>
